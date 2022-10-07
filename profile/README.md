@@ -3,6 +3,8 @@
 
 ## Descripción
 Organización de la pagina web de caeii, este sitio web se encarga de mostrar información sobre caeii, tomar asistencia de los participantes y brindar mapas y horarios de las actividades
+[Link a la paguina web](https://caeii.com.ar/perfil)
+
 ### Tecnologías usadas
  - node.js
  - React
